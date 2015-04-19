@@ -1,5 +1,13 @@
-# This is a ...............
+# This is a ............... 2nd day 3rd session
 #
+
+
+#install dplyr package and dependencies
+install.packages("dplyr", dependencies = TRUE)
+
+#run library ecery time you use R
+library("dplyr")
+
 
 
 # read in the data as tab-delimited
